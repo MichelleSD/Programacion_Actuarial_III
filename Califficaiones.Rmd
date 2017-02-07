@@ -1,0 +1,34 @@
+---
+title: "CALIFICACIONES"
+author: "Jessica Michelle Sánchez Domínguez"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+A continuación se presentarán las calificaciones obtenidas de cada materia cursada hasta el momento.
+
+###Primer Semestre
+
+|        *Materia*           | *Calificación* |
+|            --              |       --       |
+| Programación Actuarial I   |        9       |
+| Intr. a la Profesión Act.  |        8       |
+| DHPC                       |        10      |
+| Conceptos de Cálculo       |        10      |
+| Matemáticas Básicas        |        10      |
+| Problemas de Mats. Básicas |        10      |
+
+### Segundo Semestre 
+
+|        *Materia*           |  *Calificación* |
+|            --              |        --       |
+| Programación Actuarial II  |         7       |
+| Teoría del Interés I       |         7       |
+| Microeconomía              |         8       |
+| Cálculo Diferencial        |         9       |
+| Geometría Analítica        |         9       |
+| Teoría de Ecuaciones       |         8       |
+
+
+
+
