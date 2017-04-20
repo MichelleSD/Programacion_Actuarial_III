@@ -1,6 +1,7 @@
-setwd("~/specdata")
-corr <- function(directorio, horizonte=0) {
-    #setwd(directorio)
+
+corr <- function(directorio = "C:/Users/MICHELLE/Documents/specdata", horizonte=0) {
+    #setwd("~/specdata")
+    setwd(directorio)
     
     id <- 1:332
     vector1 <- c()
@@ -21,5 +22,6 @@ corr <- function(directorio, horizonte=0) {
     vector1
 }
 
-cr <- corr("specadata",400)
-cr
+corr(,400)
+
+
