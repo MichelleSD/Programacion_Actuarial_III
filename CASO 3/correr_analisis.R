@@ -1,7 +1,6 @@
 limpieza<-function(carpeta ="~/UCI HAR Dataset"){
 
-    
-    setwd(carpeta)
+    #setwd(carpeta)
 
 {
 completoX <- rbind(read.table("./train/X_train.txt"), read.table("./test/X_test.txt")) 
@@ -90,3 +89,5 @@ abc<-data.frame(res,row.names = NULL)
   
   View(abc)
 }
+
+limpieza("~/UCI HAR Dataset")
